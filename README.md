@@ -1,6 +1,6 @@
 # spawn-bin
 
-[![Build Status](https://travis-ci.org/fgnass/spawn-bin.svg?branch=master)](https://travis-ci.org/fgnass/spawn-bin)
+[![Build Status](https://travis-ci.org/fgnass/spawn-bin.svg?branch=master)](https://travis-ci.org/fgnass/spawn-bin) [![Greenkeeper badge](https://badges.greenkeeper.io/fgnass/spawn-bin.svg)](https://greenkeeper.io/)
 
 
 Simple utility that combines [cross-spawn](https://www.npmjs.com/package/cross-spawn) and [resolve-bin](https://www.npmjs.com/package/resolve-bin).
