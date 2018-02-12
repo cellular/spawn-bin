@@ -1,5 +1,6 @@
 const spawn = require('./index');
 
 test('spawn', () => {
-  expect(spawn('eslint', ['.'])).status.toEqual(0);
+  const result = spawn('eslint', ['.']);
+  expect(result).toHaveProperty('status', 0);
 });
