@@ -1,5 +1,7 @@
 # spawn-bin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/fgnass/spawn-bin.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/fgnass/spawn-bin.svg?branch=master)](https://travis-ci.org/fgnass/spawn-bin)
 
 
