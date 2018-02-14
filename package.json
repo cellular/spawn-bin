@@ -1,7 +1,7 @@
 {
   "name": "spawn-bin",
   "version": "1.0.0",
-  "description": "resolve-bin 👉 cross-spawn",
+  "description": "spawn binaries",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -10,12 +10,12 @@
   "repository": "fgnass/spawn-bin",
   "license": "MIT",
   "dependencies": {
-    "cross-spawn": "^6.0.4",
     "resolve-bin": "^0.4.0"
   },
   "devDependencies": {
     "eslint": "^4.17.0",
     "eslint-config-cellular": "^1.0.0",
+    "flow-bin": "^0.65.0",
     "jest": "^22.2.2"
   }
 }
