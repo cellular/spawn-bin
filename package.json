@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "author": "Felix Gnass <fgnass@cellular.de>",
-  "repository": "fgnass/spawn-bin",
+  "repository": "cellular/spawn-bin",
   "license": "MIT",
   "dependencies": {
     "resolve-bin": "^0.4.0"

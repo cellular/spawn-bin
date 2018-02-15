@@ -1,6 +1,6 @@
 # spawn-bin
 
-[![Build Status](https://travis-ci.org/fgnass/spawn-bin.svg?branch=master)](https://travis-ci.org/fgnass/spawn-bin) [![Greenkeeper badge](https://badges.greenkeeper.io/fgnass/spawn-bin.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/cellular/spawn-bin.svg?branch=master)](https://travis-ci.org/cellular/spawn-bin) [![Greenkeeper badge](https://badges.greenkeeper.io/cellular/spawn-bin.svg)](https://greenkeeper.io/)
 [![version](https://img.shields.io/npm/v/spawn-bin.svg)](http://npm.im/spawn-bin)
 
 Spawns a new Node process that runs the bin file of a given package.
