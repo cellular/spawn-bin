@@ -1,21 +1,21 @@
 {
   "name": "spawn-bin",
-  "version": "1.0.0",
-  "description": "resolve-bin 👉 cross-spawn",
+  "version": "2.0.0",
+  "description": "spawn binaries",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "author": "Felix Gnass <fgnass@cellular.de>",
-  "repository": "fgnass/spawn-bin",
+  "repository": "cellular/spawn-bin",
   "license": "MIT",
   "dependencies": {
-    "cross-spawn": "^6.0.4",
     "resolve-bin": "^0.4.0"
   },
   "devDependencies": {
     "eslint": "^4.17.0",
     "eslint-config-cellular": "^2.0.0",
+    "flow-bin": "^0.65.0",
     "jest": "^22.2.2"
   }
 }
