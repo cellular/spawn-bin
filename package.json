@@ -2,13 +2,13 @@
   "name": "spawn-bin",
   "version": "2.0.0",
   "description": "spawn binaries",
+  "author": "Felix Gnass <fgnass@cellular.de>",
+  "repository": "cellular/spawn-bin",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "Felix Gnass <fgnass@cellular.de>",
-  "repository": "cellular/spawn-bin",
-  "license": "MIT",
   "dependencies": {
     "resolve-bin": "^0.4.0"
   },
